@@ -1,5 +1,15 @@
 # DSA-Weekly-LeetCode-Practice
 
+Hello Learners!
+
+- This repository is for getting knowledge of Data Structures and Algorithms and practicing some good questions on each DS on weekly basis.
+- All the solutions will be updated by me after end of week.
+
+<br/>
+Let's get started!
+
+<br/>
+
 > ### Problems links and Resources will be provided weekly in this repository
 
 <br/>
@@ -8,6 +18,14 @@
 
 <summary> Week-1 Array</summary>
 <br/>
+
+     Learning Resources
+
+- Array Data Structre [(Best Article)](https://www.scaler.com/topics/data-structures/array-data-structure/)
+
+- If after reading this article you are still not getting the concept then practice easy questions on HackerRank to get an Idea.
+
+- Now you can practice these questions.
 
 > Easy
 
