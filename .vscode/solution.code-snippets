@@ -1,0 +1,15 @@
+{
+	
+	"Print to console": {
+		"scope": "cpp",
+		"prefix": "snippet",
+		"body": [
+			"/*",
+			"\tProblem Name - []",
+			"\tRead this blog - []",
+			"*/",
+			"// My Solution"
+		],
+		"description": "snippet"
+	}
+}
