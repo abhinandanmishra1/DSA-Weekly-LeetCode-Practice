@@ -79,7 +79,7 @@ Let's get started!
 - Problem 7 **[Link](https://leetcode.com/problems/spiral-matrix/)**
 - Problem 8 **[Link](https://leetcode.com/problems/container-with-most-water/)**
 - Problem 9 **[Link](https://leetcode.com/problems/rotate-image/)**
-- Problem 10 **[Link](https://leetcode.com/problems/word-search/)**
+- Problem 10 **[Link](https://leetcode.com/problems/word-search/)** (Requires Knowledge of DFS and BFS -> You may leave this problem or learn BFS and DFS)
 
 </details>
 </li>
