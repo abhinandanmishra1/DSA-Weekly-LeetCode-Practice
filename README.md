@@ -135,3 +135,103 @@ Let's get started!
 </details>
 
 ---
+
+<br/>
+
+<details>
+
+<summary> Week-2 Strings</summary>
+<br/>
+<blockquote>
+<details>
+<summary>Learning Resources</summary>
+
+- String Data Structre [(Best Article)](https://www.scaler.com/topics/data-structures/string-in-data-structure/)
+
+- Read this article and if still you have doubts then practice some easy questions on hackerrank.
+
+- Now you can practice these questions.
+
+</details>
+</blockquote>
+</br>
+
+> **Easy**
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/add-strings/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/longest-common-prefix/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/valid-palindrome-ii/)**
+- Problem 4 **[Link](https://leetcode.com/problems/roman-to-integer/)**
+- Problem 5 **[Link](https://leetcode.com/problems/implement-strstr/)**
+
+</details>
+</li>
+</ul>
+
+> Medium
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/longest-palindromic-substring/)**
+- Problem 4 **[Link](https://leetcode.com/problems/group-anagrams/)**
+- Problem 5 **[Link](https://leetcode.com/problems/generate-parentheses/)**
+- Problem 6 **[Link](https://leetcode.com/problems/basic-calculator-ii/)**
+- Problem 7 **[Link](https://leetcode.com/problems/integer-to-roman/)**
+- Problem 8 **[Link](https://leetcode.com/problems/reverse-words-in-a-string/)**
+- Problem 9 **[Link](https://leetcode.com/problems/simplify-path/)**
+- Problem 10 **[Link](https://leetcode.com/problems/zigzag-conversion/)**
+
+</details>
+</li>
+</ul>
+
+> Hard
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/text-justification/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/integer-to-english-words/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/minimum-window-substring/)**
+- Problem 4 **[Link](https://leetcode.com/problems/valid-number/)**
+- Problem 5 **[Link](https://leetcode.com/problems/distinct-subsequences/)**
+</details>
+</li>
+</ul>
+
+> Extra Problems
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)**
+
+</details>
+</li>
+</ul>
+
+</details>
+
+---
