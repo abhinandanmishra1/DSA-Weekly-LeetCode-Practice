@@ -246,7 +246,7 @@ Let's get started!
 <details>
 <summary>Learning Resources</summary>
 
-- String Data Structre [(Best Article)](https://www.interviewbit.com/courses/programming/topics/linked-lists/)
+- Linkedlist Data Structre [(Best Article)](https://www.interviewbit.com/courses/programming/topics/linked-lists/)
 
 - Read this article and if still you have doubts then practice some easy questions on hackerrank.
 
