@@ -235,3 +235,124 @@ Let's get started!
 </details>
 
 ---
+
+<br/>
+
+<details>
+
+<summary> Week-3 Linkedlist</summary>
+<br/>
+<blockquote>
+<details>
+<summary>Learning Resources</summary>
+
+- String Data Structre [(Best Article)](https://www.interviewbit.com/courses/programming/topics/linked-lists/)
+
+- Read this article and if still you have doubts then practice some easy questions on hackerrank.
+
+- Now you can practice these questions.
+
+</details>
+</blockquote>
+</br>
+
+> **Easy**
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/delete-node-in-a-linked-list/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/middle-of-the-linked-list/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)**
+- Problem 4 **[Link](https://leetcode.com/problems/design-hashset/)**
+- Problem 5 **[Link](https://leetcode.com/problems/design-hashmap/)**
+- Problem 6 **[Link](https://leetcode.com/problems/reverse-linked-list/)**
+
+- Problem 7 **[Link](https://leetcode.com/problems/merge-two-sorted-lists/)**
+
+- Problem 8 **[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)**
+- Problem 9 **[Link](https://leetcode.com/problems/intersection-of-two-linked-lists/)**
+- Problem 10 **[Link](https://leetcode.com/problems/linked-list-cycle/)**
+- Problem 11 **[Link](https://leetcode.com/problems/palindrome-linked-list/)**
+- Problem 12 **[Link](https://leetcode.com/problems/remove-linked-list-elements/)**
+
+</details>
+</li>
+</ul>
+
+> Medium
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/add-two-numbers)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/swap-nodes-in-pairs)**
+- Problem 4 **[Link](https://leetcode.com/problems/rotate-list)**
+- Problem 5 **[Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)**
+- Problem 6 **[Link](https://leetcode.com/problems/partition-list)**
+- Problem 7 **[Link](https://leetcode.com/problems/reverse-linked-list-ii)**
+- Problem 8 **[Link](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)**
+- Problem 9 **[Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)**
+- Problem 10 **[Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)**
+
+</details>
+</li>
+</ul>
+
+> Hard
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/design-skiplist)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/lfu-cache)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/all-oone-data-structure)**
+- Problem 4 **[Link](https://leetcode.com/problems/reverse-nodes-in-k-group)**
+- Problem 5 **[Link](https://leetcode.com/problems/merge-k-sorted-lists)**
+</details>
+</li>
+</ul>
+
+> Extra Problems
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/copy-list-with-random-pointer)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/linked-list-cycle-ii)**
+- Problem 3 **[Link](https://leetcode.com/problems/reorder-list)**
+
+- Problem 4 **[Link](https://leetcode.com/problems/lru-cache)**
+- Problem 5 **[Link](https://leetcode.com/problems/insertion-sort-list)**
+
+- Problem 6 **[Link](https://leetcode.com/problems/sort-list)**
+- Problem 7 **[Link](https://leetcode.com/problems/odd-even-linked-list)**
+
+- Problem 8 **[Link](https://leetcode.com/problems/design-twitter)**
+- Problem 9 **[Link](https://leetcode.com/problems/linked-list-components)**
+
+- Problem 10 **[Link](https://leetcode.com/problems/merge-in-between-linked-lists)**
+
+</details>
+</li>
+</ul>
+
+</details>
+
+---
