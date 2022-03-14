@@ -367,7 +367,7 @@ Let's get started!
 <details>
 <summary>Learning Resources</summary>
 
-- Linkedlist Data Structre [(Best Article)](https://www.scaler.com/topics/data-structures/tree-data-structure/)
+- Tree Data Structre [(Best Article)](https://www.scaler.com/topics/data-structures/tree-data-structure/)
 
 - Youtube (Striver tree series)
 
