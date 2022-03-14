@@ -356,3 +356,140 @@ Let's get started!
 </details>
 
 ---
+
+<br/>
+
+<details>
+
+<summary> Week-4 Tree</summary>
+<br/>
+<blockquote>
+<details>
+<summary>Learning Resources</summary>
+
+- Linkedlist Data Structre [(Best Article)](https://www.scaler.com/topics/data-structures/tree-data-structure/)
+
+- Youtube (Striver tree series)
+
+- Practice
+
+</details>
+</blockquote>
+</br>
+
+> **Easy**
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/diameter-of-binary-tree/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/invert-binary-tree/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/subtree-of-another-tree/)**
+
+- Problem 4 **[Link](https://leetcode.com/problems/range-sum-of-bst/)**
+
+- Problem 5 **[Link](https://leetcode.com/problems/symmetric-tree/)**
+
+- Problem 6 **[Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)**
+
+- Problem 7 **[Link](https://leetcode.com/problems/merge-two-binary-trees/)**
+
+- Problem 8 **[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)**
+
+- Problem 9 **[Link](https://leetcode.com/problems/binary-tree-paths/)**
+
+- Problem 10 **[Link](https://leetcode.com/problems/same-tree/)**
+
+- Problem 11 **[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)**
+
+- Problem 12 **[Link](https://leetcode.com/problems/path-sum/)**
+
+- Problem 13 **[Link](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)**
+
+- Problem 14 **[Link](https://leetcode.com/problems/sum-of-left-leaves/)**
+
+- Problem 15 **[Link](https://leetcode.com/problems/balanced-binary-tree/)**
+
+- Problem 16 **[Link](https://leetcode.com/problems/binary-tree-inorder-traversal/)**
+
+</details>
+</li>
+</ul>
+
+> Medium
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/binary-tree-right-side-view/)**
+
+- Problem 4 **[Link](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)**
+
+- Problem 5 **[Link](https://leetcode.com/problems/validate-binary-search-tree/)**
+
+- Problem 6 **[Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)**
+
+- Problem 7 **[Link](https://leetcode.com/problems/binary-search-tree-iterator/)**
+
+- Problem 8 **[Link](https://leetcode.com/problems/binary-tree-level-order-traversal/)**
+
+- Problem 9 **[Link](https://leetcode.com/problems/path-sum-iii/construct-binary-tree-from-preorder-and-postorder-traversal/)**
+
+- Problem 10 **[Link](https://leetcode.com/problems/unique-binary-search-trees/)**
+
+- Problem 11 **[Link](https://leetcode.com/problems/recover-binary-search-tree/)**
+
+- Problem 12 **[Link](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)**
+
+- Problem 13 **[Link](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)**
+
+- Problem 14 **[Link](https://leetcode.com/problems/maximum-width-of-binary-tree/)**
+
+- Problem 15 **[Link](https://leetcode.com/problems/unique-binary-search-trees-ii/)**
+
+- Problem 16 **[Link](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)**
+
+- Problem 17 **[Link](https://leetcode.com/problems/redundant-connection/)**
+
+</details>
+</li>
+</ul>
+
+> Hard
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/binary-tree-maximum-path-sum/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)**
+
+- Problem 4 **[Link](https://leetcode.com/problems/binary-tree-cameras/)**
+
+- Problem 5 **[Link](https://leetcode.com/problems/sum-of-distances-in-tree/)**
+
+- Problem 6 **[Link](https://leetcode.com/problems/number-of-ways-to-reconstruct-a-tree/)**
+
+- Problem 7 **[Link](https://leetcode.com/problems/redundant-connection-ii/)**
+
+</details>
+</li>
+</ul>
+
+</details>
+
+---
