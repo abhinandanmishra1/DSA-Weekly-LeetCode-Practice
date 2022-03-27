@@ -493,3 +493,81 @@ Let's get started!
 </details>
 
 ---
+
+<br>
+<details>
+
+<summary> Week-5 Graph</summary>
+
+> **Easy**
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/employee-importance/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/find-the-town-judge/)**
+
+</details>
+</li>
+</ul>
+
+> **Medium**
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/evaluate-division/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/accounts-merge/)**
+
+- Problem 3 **[Link](https://leetcode.com/problems/network-delay-time/)**
+
+- Problem 4 **[Link](https://leetcode.com/problems/find-eventual-safe-states/)**
+
+- Problem 5 **[Link](https://leetcode.com/problems/keys-and-rooms/)**
+
+- Problem 6 **[Link](https://leetcode.com/problems/possible-bipartition/)**
+
+- Problem 7 **[Link](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)**
+
+- Problem 8 **[Link](https://leetcode.com/problems/regions-cut-by-slashes/)**
+
+- Problem 9 **[Link](https://leetcode.com/problems/satisfiability-of-equality-equations/)**
+
+- Problem 10 **[Link](https://leetcode.com/problems/as-far-from-land-as-possible/)**
+
+- Problem 11 **[Link](https://leetcode.com/problems/number-of-closed-islands/)**
+
+- Problem 12 **[Link](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)**
+
+- Problem 13 **[Link](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)**
+
+- Problem 14 **[Link](https://leetcode.com/problems/time-needed-to-inform-all-employees/)**
+
+</details>
+</li>
+</ul>
+
+> **Hard**
+
+<ul>
+<li>
+<details>
+<summary>Problems</summary>
+
+- Problem 1 **[Link](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)**
+
+- Problem 2 **[Link](https://leetcode.com/problems/reconstruct-itinerary/)**
+
+</details>
+</li>
+</ul>
+
+</details>
+
+---
